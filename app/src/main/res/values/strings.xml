@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Query App</string>
+    <string name="button1">button</string>
+    <string name="button2">button2</string>
+    <string name="button">Button</string>
+    <string name="query">Query</string>
+    <string name="answer">Answer</string>
+    <string name="forgot_password" />
+    <string name="new_here_create_account" />
+    <string name="login" />
+    <string name="password" />
+    <string name="email" />
+    <string name="create_new_account" />
+    <string name="jobizy" />
+    <string name="jobzy" />
+</resources>
